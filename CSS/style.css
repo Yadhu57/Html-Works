@@ -1,0 +1,18 @@
+body{                                     /* Tag Selector */
+    background-color: black;
+}
+h1{
+   color:white; 
+   text-align: center;
+   text-decoration: underline;
+}
+#first{
+     color: rgb(46, 164, 72);       /* # is used for ID selector */
+     text-align: left;
+     text-decoration: none;
+}
+.brand{
+    color:rgb(244, 106, 0);
+    
+    
+}
